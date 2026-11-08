@@ -1,0 +1,11 @@
+{
+  "org": "bokeh",
+  "repo": "bokeh_sampledata",
+  "versions": [
+    {
+      "commit": "c0ccb5facf6db1c2ee4dffdde80ad9c06bc9b587",
+      "tag": "2026.2",
+      "parsed_at": "2026-11-08T03:48:08.991334+00:00"
+    }
+  ]
+}
